@@ -1,2 +1,3 @@
 # nuevorespaldo
-nuevo respaldo de las clases para practicar mas 
+este proyecto es una prueba de como acceder al respaldo en git hub y tenerlo de forma local en el escritorio
+
